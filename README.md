@@ -2,7 +2,7 @@
 
 Este repositorio contiene la implementación de un proyecto de la asignatura de Machine Learning de mi Máster en Big Data Analytics para los Negocios, enfocada en el procesamiento de datos y la aplicación de algoritmos de aprendizaje supervisado para resolver problemas de regresión y clasificación.
 
-La implementación se realiza con los métodos de la librería Sci-Kit Learn en Python, concretamete usando el algoritmo Random Forest como modelo de entrenamiento.
+La implementación se realiza con los métodos de la librería scikit-learn en Python, concretamete usando el algoritmo Random Forest como modelo de entrenamiento.
 ## Descripción del Proyecto
 
 El proyecto abarca dos ejercicios principales que corresponden a problemas clásicos en aprendizaje supervisado:
